@@ -3,7 +3,10 @@
 ---
 
 <p align="center">
-	<img src="logo.png" width="500" height="500" alt="AdCalc Logo" />
+  <img src="logo.png" width="500" height="500" alt="AdCalc Logo" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=M-Rithish&label=Profile%20Views&color=yellow&style=flat-square" alt="Profile views" />
 </p>
 
 ## What Can This Calculator Do?
