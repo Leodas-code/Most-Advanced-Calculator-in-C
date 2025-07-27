@@ -2,6 +2,10 @@
 
 ---
 
+<p align="center">
+	<img src="logo.png" width="376" height="128" alt="AdCalc Logo" />
+</p>
+
 ## What Can This Calculator Do?
 
 This is not a basic calculator. It’s written completely in **C** with modular structure, using header files, and includes:
