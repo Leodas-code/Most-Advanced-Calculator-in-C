@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1753601396 source:c:\users\hp\documents\c program\variables\calculator\main.c
+	<stdio.h>
+	"calc.h"
+
+1753601666 c:\users\hp\documents\c program\variables\calculator\calc.h
+	<stdio.h>
+	<math.h>
+
